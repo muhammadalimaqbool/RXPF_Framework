@@ -1,0 +1,8 @@
+<!DOCTYPE Employees
+[
+<!ELEMENT Employee (name,age,role,gender)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT age (#PCDATA)>
+<!ELEMENT role (#PCDATA)>
+<!ELEMENT gender (#PCDATA)>
+]>

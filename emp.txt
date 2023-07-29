@@ -1,0 +1,56 @@
+<Employees>
+<Employee>
+<name>Pankaj</name>
+<age>29</age>
+<role>Java Developer</role>
+<gender>Male</gender>
+</Employee>
+<Employee>
+<name>Lisa</name>
+<age>35</age>
+<role>CSS Developer</role>
+<gender>Female</gender>
+</Employee>
+<Employee>
+<name>imran</name>
+<age>37</age>
+<role>C# Developer</role>
+<gender>Male</gender>
+</Employee>
+<Employee>
+<name>bilal</name>
+<age>30</age>
+<role>.Net Developer</role>
+<gender>Male</gender>
+</Employee>
+<Employee>
+<name>numan</name>
+<age>31</age>
+<role>VB Developer</role>
+<gender>Male</gender>
+</Employee>
+<Employee>
+<name>azher</name>
+<age>28</age>
+<role>Web Developer</role>
+<gender>Male</gender>
+</Employee>
+<Employee>
+<name>sajid</name>
+<age>38</age>
+<role>java Developer</role>
+<gender>Male</gender>
+</Employee>
+<Employee>
+<name>fyaz</name>
+<age>39</age>
+<role>VC Developer</role>
+<gender>Male</gender>
+</Employee>
+<Employee>
+<name>ejaz</name>
+<age>41</age>
+<role>team leader</role>
+<gender>Male</gender>
+</Employee>
+</Employees>
